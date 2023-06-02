@@ -10,3 +10,15 @@ D:\proyectos\NewshoreApi\NewshoreDataAccess\obj\Debug\net6.0\NewshoreDataAccess.
 D:\proyectos\NewshoreApi\NewshoreDataAccess\obj\Debug\net6.0\refint\NewshoreDataAccess.dll
 D:\proyectos\NewshoreApi\NewshoreDataAccess\obj\Debug\net6.0\NewshoreDataAccess.pdb
 D:\proyectos\NewshoreApi\NewshoreDataAccess\obj\Debug\net6.0\ref\NewshoreDataAccess.dll
+D:\proyectos\Newshore\API\NewshoreApi\NewshoreDataAccess\bin\Debug\net6.0\NewshoreDataAccess.deps.json
+D:\proyectos\Newshore\API\NewshoreApi\NewshoreDataAccess\bin\Debug\net6.0\NewshoreDataAccess.dll
+D:\proyectos\Newshore\API\NewshoreApi\NewshoreDataAccess\bin\Debug\net6.0\NewshoreDataAccess.pdb
+D:\proyectos\Newshore\API\NewshoreApi\NewshoreDataAccess\obj\Debug\net6.0\NewshoreDataAccess.csproj.AssemblyReference.cache
+D:\proyectos\Newshore\API\NewshoreApi\NewshoreDataAccess\obj\Debug\net6.0\NewshoreDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\Newshore\API\NewshoreApi\NewshoreDataAccess\obj\Debug\net6.0\NewshoreDataAccess.AssemblyInfoInputs.cache
+D:\proyectos\Newshore\API\NewshoreApi\NewshoreDataAccess\obj\Debug\net6.0\NewshoreDataAccess.AssemblyInfo.cs
+D:\proyectos\Newshore\API\NewshoreApi\NewshoreDataAccess\obj\Debug\net6.0\NewshoreDataAccess.csproj.CoreCompileInputs.cache
+D:\proyectos\Newshore\API\NewshoreApi\NewshoreDataAccess\obj\Debug\net6.0\NewshoreDataAccess.dll
+D:\proyectos\Newshore\API\NewshoreApi\NewshoreDataAccess\obj\Debug\net6.0\refint\NewshoreDataAccess.dll
+D:\proyectos\Newshore\API\NewshoreApi\NewshoreDataAccess\obj\Debug\net6.0\NewshoreDataAccess.pdb
+D:\proyectos\Newshore\API\NewshoreApi\NewshoreDataAccess\obj\Debug\net6.0\ref\NewshoreDataAccess.dll

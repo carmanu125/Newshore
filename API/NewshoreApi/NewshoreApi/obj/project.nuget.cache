@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j/Xun86j13dm3AM2tMkXDPSINmuan4vKIOyA8FwYVObyuQyizGESz6BB5Le/mly1K9oybnZFX+GMYHMPT8NO2g==",
+  "dgSpecHash": "agCprvp6/QzVV2kum+bjM6XgadnVKWFmxdUxAeuR+0vOByKSHS0uegWtMLJnIvfPuxKqZ1LgrG/GIHKzI0RS+g==",
   "success": true,
-  "projectFilePath": "D:\\proyectos\\NewshoreApi\\NewshoreApi\\NewshoreApi.csproj",
+  "projectFilePath": "D:\\proyectos\\Newshore\\API\\NewshoreApi\\NewshoreApi\\NewshoreApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\carlos.nunez.MVM\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\carlos.nunez.MVM\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

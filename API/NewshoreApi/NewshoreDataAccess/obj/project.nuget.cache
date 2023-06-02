@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e9HU98UMzz2uDl/VM7p6qqZ1JygBHLMbRApISNxHh9V8diD3qINIJBXYbughahT340QiqMLEJYvI3q0U3s7ZCA==",
+  "dgSpecHash": "FDZx49bqRZ5uJKbc2FcxpTkQwznl23I8rf+FLO+CFGr8TYN7QWDRYSvMFyvHbwk4j/zh/oEogxwz0h6u4PVJFw==",
   "success": true,
-  "projectFilePath": "D:\\proyectos\\NewshoreApi\\NewshoreDataAccess\\NewshoreDataAccess.csproj",
+  "projectFilePath": "D:\\proyectos\\Newshore\\API\\NewshoreApi\\NewshoreDataAccess\\NewshoreDataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\carlos.nunez.MVM\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\carlos.nunez.MVM\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

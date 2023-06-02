@@ -20,7 +20,7 @@ namespace NewshoreApi.Controllers
 
 
             //Confirma si hay datos almacenados para esa ruta
-            journey = db.GetRoute();
+            //journey = db.GetRoute();
             //if (journey == null)
             //{
                 //No se encontraro rutas, se procede a calcularla

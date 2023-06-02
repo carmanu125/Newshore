@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\proyectos\\NewshoreApi\\NewshoreDataAccess\\NewshoreDataAccess.csproj": {}
+    "D:\\proyectos\\Newshore\\API\\NewshoreApi\\NewshoreDataAccess\\NewshoreDataAccess.csproj": {}
   },
   "projects": {
-    "D:\\proyectos\\NewshoreApi\\NewshoreDataAccess\\NewshoreDataAccess.csproj": {
+    "D:\\proyectos\\Newshore\\API\\NewshoreApi\\NewshoreDataAccess\\NewshoreDataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\proyectos\\NewshoreApi\\NewshoreDataAccess\\NewshoreDataAccess.csproj",
+        "projectUniqueName": "D:\\proyectos\\Newshore\\API\\NewshoreApi\\NewshoreDataAccess\\NewshoreDataAccess.csproj",
         "projectName": "NewshoreDataAccess",
-        "projectPath": "D:\\proyectos\\NewshoreApi\\NewshoreDataAccess\\NewshoreDataAccess.csproj",
+        "projectPath": "D:\\proyectos\\Newshore\\API\\NewshoreApi\\NewshoreDataAccess\\NewshoreDataAccess.csproj",
         "packagesPath": "C:\\Users\\carlos.nunez.MVM\\.nuget\\packages\\",
-        "outputPath": "D:\\proyectos\\NewshoreApi\\NewshoreDataAccess\\obj\\",
+        "outputPath": "D:\\proyectos\\Newshore\\API\\NewshoreApi\\NewshoreDataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
