@@ -1,0 +1,12 @@
+D:\proyectos\NewshoreApi\NewshoreDataAccess\bin\Debug\net6.0\NewshoreDataAccess.deps.json
+D:\proyectos\NewshoreApi\NewshoreDataAccess\bin\Debug\net6.0\NewshoreDataAccess.dll
+D:\proyectos\NewshoreApi\NewshoreDataAccess\bin\Debug\net6.0\NewshoreDataAccess.pdb
+D:\proyectos\NewshoreApi\NewshoreDataAccess\obj\Debug\net6.0\NewshoreDataAccess.csproj.AssemblyReference.cache
+D:\proyectos\NewshoreApi\NewshoreDataAccess\obj\Debug\net6.0\NewshoreDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\NewshoreApi\NewshoreDataAccess\obj\Debug\net6.0\NewshoreDataAccess.AssemblyInfoInputs.cache
+D:\proyectos\NewshoreApi\NewshoreDataAccess\obj\Debug\net6.0\NewshoreDataAccess.AssemblyInfo.cs
+D:\proyectos\NewshoreApi\NewshoreDataAccess\obj\Debug\net6.0\NewshoreDataAccess.csproj.CoreCompileInputs.cache
+D:\proyectos\NewshoreApi\NewshoreDataAccess\obj\Debug\net6.0\NewshoreDataAccess.dll
+D:\proyectos\NewshoreApi\NewshoreDataAccess\obj\Debug\net6.0\refint\NewshoreDataAccess.dll
+D:\proyectos\NewshoreApi\NewshoreDataAccess\obj\Debug\net6.0\NewshoreDataAccess.pdb
+D:\proyectos\NewshoreApi\NewshoreDataAccess\obj\Debug\net6.0\ref\NewshoreDataAccess.dll

@@ -1,0 +1,15 @@
+D:\proyectos\NewshoreApi\NewshoreBusiness\bin\Debug\net6.0\NewshoreBusiness.deps.json
+D:\proyectos\NewshoreApi\NewshoreBusiness\bin\Debug\net6.0\NewshoreBusiness.dll
+D:\proyectos\NewshoreApi\NewshoreBusiness\bin\Debug\net6.0\NewshoreBusiness.pdb
+D:\proyectos\NewshoreApi\NewshoreBusiness\bin\Debug\net6.0\NewshoreDataAccess.dll
+D:\proyectos\NewshoreApi\NewshoreBusiness\bin\Debug\net6.0\NewshoreDataAccess.pdb
+D:\proyectos\NewshoreApi\NewshoreBusiness\obj\Debug\net6.0\NewshoreBusiness.csproj.AssemblyReference.cache
+D:\proyectos\NewshoreApi\NewshoreBusiness\obj\Debug\net6.0\NewshoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\NewshoreApi\NewshoreBusiness\obj\Debug\net6.0\NewshoreBusiness.AssemblyInfoInputs.cache
+D:\proyectos\NewshoreApi\NewshoreBusiness\obj\Debug\net6.0\NewshoreBusiness.AssemblyInfo.cs
+D:\proyectos\NewshoreApi\NewshoreBusiness\obj\Debug\net6.0\NewshoreBusiness.csproj.CoreCompileInputs.cache
+D:\proyectos\NewshoreApi\NewshoreBusiness\obj\Debug\net6.0\NewshoreBusiness.csproj.CopyComplete
+D:\proyectos\NewshoreApi\NewshoreBusiness\obj\Debug\net6.0\NewshoreBusiness.dll
+D:\proyectos\NewshoreApi\NewshoreBusiness\obj\Debug\net6.0\refint\NewshoreBusiness.dll
+D:\proyectos\NewshoreApi\NewshoreBusiness\obj\Debug\net6.0\NewshoreBusiness.pdb
+D:\proyectos\NewshoreApi\NewshoreBusiness\obj\Debug\net6.0\ref\NewshoreBusiness.dll
